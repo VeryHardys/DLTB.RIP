@@ -1,0 +1,10 @@
+Item Extravaganza - personal game-mod release
+
+Use at your own risk. This package is not affiliated with Techland, Steam,
+Valve or Nexus Mods. Dying Light: The Beast and associated marks are property
+of their respective owners.
+
+Do not redistribute the game itself or its proprietary assets with this package.
+The inspection/build source does not imply a separate open-source license.
+Rights to the implementation and game-derived metadata remain with their
+respective owners. Refer to COPYRIGHT.txt and RIGHTS-AND-ATTRIBUTION.md.

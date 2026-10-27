@@ -1,0 +1,21 @@
+Item Extravaganza v1.1 - copyright and infringement notice
+
+Implementation copyright remains with the respective mod authors. Game names,
+marks, definitions, localized names and game-derived metadata belong to their
+respective rights holders. No ownership of Dying Light: The Beast or its assets
+is claimed. This is an unofficial fan-made tool, not an official product.
+
+No game binaries, game archives, models, textures, audio, other mod binaries,
+personal saves or research captures are included. The TSV catalogues are
+game-derived metadata and remain subject to applicable rights and terms.
+
+Do not redistribute the game or proprietary assets with this package. A source
+snapshot and this notice do not grant third-party rights or legal clearance.
+Before publishing, review RIGHTS-AND-ATTRIBUTION.md and current policies.
+
+If you are a rights holder and believe material here infringes your rights,
+contact the uploader through the release page or the platform's reporting
+process, identifying the affected material and the claimed rights. No separate
+open-source license is granted by this notice.
+
+Provided without warranty. Back up saves; use and saved changes are at your risk.

@@ -1,0 +1,40 @@
+#include <winver.h>
+#include "ItemExtravaganzaVersion.h"
+101 ICON "ItemExtravaganza.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION IE_VERSION_RESOURCE
+ PRODUCTVERSION IE_VERSION_RESOURCE
+ FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+ FILEFLAGS 0
+ FILEOS VOS_NT_WINDOWS32
+#ifdef IE_RUNTIME_DLL
+ FILETYPE VFT_DLL
+#else
+ FILETYPE VFT_APP
+#endif
+ FILESUBTYPE 0
+BEGIN
+ BLOCK "StringFileInfo"
+ BEGIN
+  BLOCK "040904b0"
+  BEGIN
+   VALUE "ProductName", "Item Extravaganza"
+   VALUE "ProductVersion", IE_VERSION_FILE_TEXT
+   VALUE "FileVersion", IE_VERSION_FILE_TEXT
+#ifdef IE_RUNTIME_DLL
+   VALUE "FileDescription", "Item Extravaganza Runtime"
+   VALUE "OriginalFilename", "ItemExtravaganzaRuntime.dll"
+   VALUE "InternalName", "ItemExtravaganzaRuntime"
+#else
+   VALUE "FileDescription", "Item Extravaganza Launcher"
+   VALUE "OriginalFilename", "ItemExtravaganza.exe"
+   VALUE "InternalName", "ItemExtravaganza"
+#endif
+  END
+ END
+ BLOCK "VarFileInfo"
+ BEGIN
+  VALUE "Translation", 0x409, 1200
+ END
+END

@@ -1,0 +1,362 @@
+# Definition-authored UIStats; not live affix records or guaranteed tooltip values.
+id	index	name	authored_value	unit	scalable	curve	source
+dlc_ft_wpn_1hs_mach_08_ancient_r1	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r1	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r2	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r2	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r3	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r3	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r4	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r4	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r5	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r5	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r6	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r6	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r7	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r7	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r8	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r8	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r9	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r9	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r10	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r10	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r11	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r11	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r12	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r12	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r13	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r13	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r14	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r14	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r15	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r15	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_08_ancient_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r1	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r1	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r2	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r2	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r3	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r3	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r4	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r4	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r5	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r5	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r6	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r6	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r7	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r7	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r8	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r8	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r9	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r9	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r10	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r10	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r11	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r11	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r12	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r12	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r13	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r13	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r14	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r14	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r15	0	Elemental Damage (per second)	65	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r15	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hs_mach_26_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r1	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r1	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r2	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r2	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r3	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r3	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r4	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r4	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r5	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r5	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r6	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r6	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r7	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r7	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r8	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r8	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r9	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r9	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r10	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r10	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r11	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r11	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r12	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r12	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r13	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r13	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r14	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r14	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r15	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r15	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HB_07_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r1	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r1	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r2	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r2	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r3	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r3	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r4	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r4	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r5	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r5	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r6	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r6	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r7	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r7	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r8	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r8	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r9	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r9	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r10	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r10	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r11	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r11	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r12	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r12	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r13	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r13	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r14	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r14	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r15	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r15	1	Elemental Damage Duration	20	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_2HB_U_swampy_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r1	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r1	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r2	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r2	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r3	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r3	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r4	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r4	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r5	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r5	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r6	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r6	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r7	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r7	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r8	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r8	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r9	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r9	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r10	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r10	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r11	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r11	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r12	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r12	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r13	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r13	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r14	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r14	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r15	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r15	1	Elemental Damage Duration	8	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_15HS_08_burningfire_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r1	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r1	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r2	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r2	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r3	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r3	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r4	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r4	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r5	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r5	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r6	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r6	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r7	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r7	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r8	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r8	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r9	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r9	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r10	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r10	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r11	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r11	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r12	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r12	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r13	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r13	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r14	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r14	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r15	0	Elemental Damage (per second)	100	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r15	1	Elemental Damage Duration	5	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HB_STK_X_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r1	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r1	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r2	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r2	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r3	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r3	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r4	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r4	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r5	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r5	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r6	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r6	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r7	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r7	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r8	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r8	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r9	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r9	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r10	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r10	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r11	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r11	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r12	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r12	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r13	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r13	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r14	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r14	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r15	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r15	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_wpn_1hb_knuckle_duster_d_blood_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r1	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r1	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r1	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r2	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r2	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r2	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r3	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r3	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r3	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r4	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r4	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r4	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r5	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r5	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r5	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r6	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r6	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r6	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r7	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r7	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r7	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r8	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r8	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r8	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r9	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r9	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r9	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r10	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r10	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r10	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r11	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r11	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r11	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r12	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r12	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r12	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r13	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r13	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r13	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r14	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r14	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r14	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r15	0	Elemental Damage (per second)	50	Signed	1	LLDamage	scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r15	1	Elemental Damage Duration	25	Seconds	0		scripts/inventory/inventory_gen.scr
+dlc_ft_WPN_1HS_KNIFE_H_ancient_r15	2	Critical Hit Chance	20	Percent	0		scripts/inventory/inventory_gen.scr
